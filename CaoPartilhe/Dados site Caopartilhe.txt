@@ -1,0 +1,44 @@
+Sobre o site, seguem algumas informações: Atualmente temos: domínio caopartilhe.org.br, hospedado no OpenShift (gratuito) da empresa RedHat. Criação:13/03/2013 - Expiração:13/03/2016. Ernesto é o ID ténico para realizar as alterações no DNS. O registro foi feito diretamente no registro.br. O servidor de e-mail atualmente é o outlook.com. Você pode tirar qq dúvida mais técnica com ele pelo e-mail ernestoof@gmail.com ou cel 31 94796236
+
+ 
+Senhas:
+
+Facebook:
+usuário: face caopartilhe@caoaprtilhe.com
+senha: cao321
+
+Hotmail:
+usuário: caopartilhe@caopartilhe.org.br
+senha: Pdlj@filhos
+
+usuário: contato@caopartilhe.org.br
+senha: Passwdcont@@@
+
+
+Daniela Schuchter
+contato@caopartilhe.org.br
+senha desse email: Elvis2015
+
+
+Para contextualizar do que temos hoje é o seguinte: Por motivos de redução de custos, temos o site hospedado no OpenShift da RedHat que atualmente suporta PHP e Mysql, tecnologias utilizadas no site atual.
+
+Como provedor de e-mail temos as contas criadas na Microsoft (hoje outlook.com). Porém as contas foram criadas em uma época em que a Microsoft permitia domínios customizados (ex: caopartilhe.org.br). Hoje isso não é mais possível a menos que seja pago uma assinatura do office 365. HOje não é mais possível realizar qualquer tipo de inclusão e algunas alterações nas contas. Elas existem e funcionam normalmente, mas manutenção não é mais suportado nesta modalidade.
+
+Para as trocas de assinatura dos e-mails, a sugestão é entrar em cada uma ( contato@caopartilhe.org.br, suporte@caopartilhe.org.br e caopartilhe@carpartilhe.org.br) e realizar as alterações.
+
+Para a conta suporte@... a senha atual é Passwdsup As outras cada um tem a sua. Gentileza verificar com as meninas.
+
+O DNS atual é o https://freedns.afraid.org/. Se precisar de acesso só me falar que lhe envio as credencias de acesso.
+
+
+segue teste que fiz na conta que tenho acesso. Suporte@caopartilhe.org.br
+
+Apenas adicionei o html (OPÇÃO EDITAR HTML no combo) na parte da assinatura pessoal, DENTRO DO OUTLOOK.COM
+
+Segue html para a Chris e na sequencia para a Dani. Fazer as alterações logado nas respectivas contas (caopartilhe@caopartilhe.org.br -> da Chris) e (contato@caopartilhe.org.br --> da Dani).
+
+Chris:
+<img alt="Caopartilhe" src="http://www.caopartilhe.org.br/images/emailchris.jpg" style="width: 350px; height: 244px;float: left;" />
+
+Dani:
+<img alt="Caopartilhe" src="http://www.caopartilhe.org.br/images/emaildani.jpg" style="width: 350px; height: 244px; float: left;" />

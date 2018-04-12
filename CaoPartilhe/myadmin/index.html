@@ -1,0 +1,55 @@
+<html>
+<meta http-equiv="Expires" CONTENT="0">
+<meta http-equiv="Cache-Control" CONTENT="no-cache, must-revalidate">
+<meta http-equiv="Pragma" CONTENT="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /> 
+<meta name="description" content="design"/>
+<head>
+<title>Painel de controle - CÃOPARTILHE</title>
+</head>
+<script language="javascript">
+function validar(){
+if(form.login.value == "" || form.senha.value == ""){
+alert("Favor insira o LOGIN e a SENHA válida grato!");
+return false;
+}
+}
+</script>
+<body>
+<div align="center" style="width:90%">
+<div align=center style="//border: 2px solid black;position:relative;width:990px;height:160px;top:10px;">
+  <div align=center style="//border: 2px solid black;position:relative;float:left;width:450px;height:155px;">
+    <img src="../img/ong-caopartilhe-marca-cabecalho.jpg">
+  </div>
+  <div align=center style="//border: 2px solid blue;position:relative;float:left;width:450px;height:155px;">
+    <img src="devillelogo.gif">
+  </div>
+</div>
+
+<div align=center style="//border: 2px solid blue;position:relative;width:990px;height:400px;top:50px;">
+  <div align=center style="border: 2px solid gray;position:relative;width:500px;height:250px;top:30px;">
+     <div align="center" style="//border: 2px solid red;position:relative;width:500px;height:50px;top:10px;"> 
+        <h2>Acesso ao painel de controle</h2>
+     </div>
+     <form name="form" method="post" action="valida.php">
+       <div align="center" style="//border: 2px solid red;position:relative;width:500px;height:50px;top:10px;"> 
+          <table border="0" width="50%" cellpadding=4>
+          <tr>
+          <td align="right" width="100%">Login:</td>
+          <td align="left" width="100%"><input type="text" value="" name="login"></td>
+          </tr>
+          <tr>
+          <td align="right" width="49%">Senha:</td>
+          <td align="left" width="49%"><input type="password" value="" name="password"></td>
+          </tr>
+          </table>
+       </div>
+       <div align=center style="//border: 2px solid red;position:relative;width:500px;top:50px;">
+          <input type="submit" value="Entrar" name="entrar" onclick="form.Consultar.value='GERAR'; return validar();">
+       </div>
+     </form>
+  </div>
+</div>
+</body>
+</html>
+
